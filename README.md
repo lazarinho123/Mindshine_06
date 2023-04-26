@@ -1,2 +1,2 @@
-# Mindshine_06
-site mindshine
+# Mindshine_05
+site Mindshine
